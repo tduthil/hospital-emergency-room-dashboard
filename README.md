@@ -1,12 +1,70 @@
-Hospital Emergency Room Performance Dashboard
-Overview: A comprehensive analytics dashboard analyzing 431 emergency room visits to optimize patient flow, reduce wait times, and improve care delivery. Built in Power BI with multi-dimensional analysis, this project transforms healthcare operational data into actionable insights for hospital administrators and clinical leadership.
-Key Highlights: Analyzed patient demographics, wait times, and satisfaction across temporal and clinical dimensions. Revealed critical service gaps—34% of patients missed the 30-minute wait time target, indicating capacity constraints during peak periods. Identified hourly and daily volume patterns through heatmap analysis, showing Thursday as the highest-demand day (77 patients) and specific 2-hour windows requiring additional staffing. Discovered that 59% of patients required no specialist referral, suggesting opportunities for triage optimization. Tracked 52% admission rate and 4.72 patient satisfaction score, establishing baseline metrics for quality improvement initiatives.
-Skills Used:
+🏥 Hospital Emergency Room Performance Dashboard
 
-Power BI
-DAX
-Healthcare Analytics
-Data Visualization
-Operational Analysis
+Tools: Power BI | DAX | Healthcare Analytics
+Dataset: 431 emergency department visits across multiple patient demographics and clinical pathways
+Role: Healthcare Data Analyst | Operations Analytics Developer
+
+Business Challenge:
+
+Hospital administrators needed comprehensive visibility into emergency department operations to reduce patient wait times, optimize staffing levels, and improve care quality. Existing reporting lacked real-time insights into patient flow patterns, departmental bottlenecks, and service level performance across different time periods and patient populations.
+
+Solution:
+
+Designed and developed an interactive Power BI dashboard providing multi-dimensional analysis of ER operations through patient demographics, clinical outcomes, temporal patterns, and service quality metrics.
+
 
 <img width="1934" height="1188" alt="image" src="https://github.com/user-attachments/assets/4fba8955-8793-4338-897b-fa50cd38c3c4" />
+
+Skills Demonstrated
+
+✅ Healthcare operations analytics and KPI development
+✅ Multi-dimensional data modeling (temporal, demographic, clinical)
+✅ DAX calculations for performance metrics and segmentation
+✅ Heat map visualization for pattern recognition
+✅ Service level analysis and capacity planning
+✅ Dashboard design for clinical and administrative stakeholders
+
+Dashboard Architecture:
+
+Patient Flow Analytics
+
+
+* Daily and hourly volume patterns via heat map visualization
+* Service level tracking: Percentage of patients seen within 30 min target
+
+Clinical & Demographic Insights
+
+* Age distribution analysis across 8 groups 
+* Gender and racial diversity tracking for equity monitoring
+* Department referral patterns
+
+
+Operational Performance
+
+* Admission status
+* Day-of-week volume trends identifying peak demand periods
+* Time-block heat map showing 84 distinct periods for granular staffing analysis
+
+
+Business Insights & Impact
+
+Operational Findings
+Capacity Constraints Identified
+
+
+Temporal Pattern Discovery:
+
+Heat map analysis revealed critical peak windows
+
+
+Example Impact (based on healthcare industry benchmarks):
+
+Wait Time Reduction Target
+Staffing Optimization: Heat map insights enable shift scheduling aligned with demand
+
+
+
+
+
+
+
