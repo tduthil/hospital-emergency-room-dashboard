@@ -13,7 +13,8 @@ Solution:
 Designed and developed an interactive Power BI dashboard providing multi-dimensional analysis of ER operations through patient demographics, clinical outcomes, temporal patterns, and service quality metrics.
 
 
-<img width="1934" height="1188" alt="image" src="https://github.com/user-attachments/assets/4fba8955-8793-4338-897b-fa50cd38c3c4" />
+<img width="1606" height="975" alt="image" src="https://github.com/user-attachments/assets/4e63c778-3ed0-458a-b614-b0ec32de863d" />
+
 
 Skills Demonstrated
 
